@@ -155,6 +155,17 @@ delay(500);
   digitalWrite(led7, HIGH);    
 
   delay(500);
+
+  digitalWrite(led0, LOW); 
+  digitalWrite(led1, LOW); 
+  digitalWrite(led2, LOW); 
+  digitalWrite(led3, LOW);    
+  digitalWrite(led4, LOW);
+  digitalWrite(led5, LOW);
+  digitalWrite(led6, LOW); 
+  digitalWrite(led7, LOW);
+
+  delay(500);
           }
           
 
